@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn programming much faster
+          Learn programming much  much faster
 
         </a>
       </header>
